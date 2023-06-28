@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ecoval"]
 	path = ecoval
 	url = https://github.com/cran/ecoval
-	shallow = true
-	registered = true
 [submodule "streambugs"]
 	path = streambugs
 	url = https://gitlab.com/neleschuwirth/streambugs
-	shallow = true
-	registered = true
